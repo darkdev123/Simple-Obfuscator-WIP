@@ -1,5 +1,5 @@
 # SimpleVM
-Will be adding new features and adding a deserializer so it doesn't get the chunk immediately
+Will be adding new features and adding a deserializer so it doesn't get the chunk immediately.
 
 Add me on Discord if you need help:
 
