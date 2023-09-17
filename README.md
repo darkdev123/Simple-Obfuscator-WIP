@@ -13,8 +13,8 @@ Currently i only have a sample of it (which was coded manually lol), but I will 
 
 Features:
 
-VM Generator (extremely simple)
-Custom VM (extremely simple too)
+VM Generator (extremely simple),
+Custom VM (extremely simple too),
 Macros (currently doesn't work)
 
 Also, if you are gonna add me on Discord to argue with me that "this isn't a real obfuscator", it is it's just development.
