@@ -1,3 +1,8 @@
+[[
+
+WARNING: The code below is old.
+
+]]
 local function decrypt_number(hex)
 	local str="";
 	for i=1,#hex,2 do
