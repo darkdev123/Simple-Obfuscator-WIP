@@ -18,3 +18,5 @@ Custom VM (extremely simple too),
 Macros (currently doesn't work)
 
 Also, if you are gonna add me on Discord to argue with me that "this isn't a real obfuscator", it is it's just development.
+
+Finally decided to update this obfuscator thing, I still haven't added a deserializer, if you're mad about that, your problem. Not mine.
