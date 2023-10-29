@@ -20,3 +20,11 @@ Macros (currently doesn't work)
 Also, if you are gonna add me on Discord to argue with me that "this isn't a real obfuscator", it is it's just development.
 
 Finally decided to update this obfuscator thing, I still haven't added a deserializer, if you're mad about that, your problem. Not mine.
+
+Update log:
+Changed the VM (not too much)
+Added encryption (XOR)
+
+Coming features:
+SHA-256 / MD5 anti tamper (might go with SHA-256 since it is faster and i tried to hash a few things on a private obfuscator with MD5 and it make the execution speed minimum: 3 milliseconds which is a lot of time wasted during execution speed.)
+Random encryption / decryption key when obfuscating.
