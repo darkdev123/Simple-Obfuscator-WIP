@@ -1,3 +1,7 @@
+This has been replaced by the something better, LuraSecur took its place, join the Discord https://discord.gg/aZj6aeAsdq
+
+
+If you want the update / info list from this discontinued obfuscator, read below.
 # SimpleVM
 Will be adding new features and adding a deserializer so it doesn't get the chunk immediately.
 
